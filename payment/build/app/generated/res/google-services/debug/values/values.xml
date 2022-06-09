@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">153365066811-klhqloi967pt5ptdf5fqge1h599qem66.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">153365066811</string>
+    <string name="google_api_key" translatable="false">AIzaSyAKhUTa203j64QDK-zVcoxyvkb53mWjx2I</string>
+    <string name="google_app_id" translatable="false">1:153365066811:android:0c7a52e6e4532d1c36581e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAKhUTa203j64QDK-zVcoxyvkb53mWjx2I</string>
+    <string name="google_storage_bucket" translatable="false">auth-payment-b2960.appspot.com</string>
+    <string name="project_id" translatable="false">auth-payment-b2960</string>
+</resources>
